@@ -1,0 +1,9 @@
+C:\Workspace\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.exe.config
+C:\Workspace\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.exe
+C:\Workspace\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.pdb
+C:\Workspace\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.csprojResolveAssemblyReference.cache
+C:\Workspace\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.EmployeeForm.resources
+C:\Workspace\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.Properties.Resources.resources
+C:\Workspace\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.GenerateResource.Cache
+C:\Workspace\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.exe
+C:\Workspace\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.pdb
